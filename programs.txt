@@ -32,3 +32,11 @@
 22
 333
 4444
+20. WAP to check if a number is prime. 
+21. WAP to print first n Fibonacci numbers. 
+22. WAP to insert elements in a 1D array. 
+23. WAP to search for elements in a 1D array. 
+24. WAP to delete elements in a 1D array. 
+25. WAP to add two matrices using 2D array. 
+26. WAP to tranpose a matrix using 2D array. 
+27. WAP to multiply two matrices using 2D array.
